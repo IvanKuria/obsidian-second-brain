@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "d61acd0b220cca68",
+    "type": "split",
+    "children": [
+      {
+        "id": "613f94fe45233d80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd1fe037f4430e7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "006 - Main Notes/Classes/CSE 13s/Day 0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c36a289460f13484",
+    "type": "split",
+    "children": [
+      {
+        "id": "70da3aa2e6da62b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d11454903d0bf1d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a84424f83404ce56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3404989512cb843",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "dd8c34f9b126322a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4065dbe393a4422",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a782a5aa427db60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e396a61f6b2338d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "006 - Main Notes/Classes/CSE 13s/Day 0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5596e7fc88aaff29",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "006 - Main Notes/Classes/CSE 13s/Day 0.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "860fbdc5cb6357a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6ed51bbbcc23479c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "006 - Main Notes/Classes/CSE 13s/Day 0.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bd1fe037f4430e7e",
+  "lastOpenFiles": [
+    "006 - Main Notes/Classes/CSE 13s/Day 0.md",
+    "007 - Daily Notes/2024-09-27.md",
+    "005 - Templates/Lecture.md",
+    "006 - Main Notes/Leetcode/Binary Search/Binary Search.md",
+    "005 - Templates/Full Note.md",
+    "005 - Templates/School Note Template.md",
+    "006 - Main Notes/Classes/Untitled.md",
+    "006 - Main Notes/Classes/CSE 13s",
+    "006 - Main Notes/Classes/CSE 16",
+    "006 - Main Notes/Leetcode/Stack/Valid Parentheses.md",
+    "006 - Main Notes/Classes",
+    "006 - Main Notes/Untitled.md",
+    "006 - Main Notes/Leetcode",
+    "006 - Main Notes/Leetcode/Stack/Min Stack.md",
+    "006 - Main Notes/Leetcode/Stack/Largest Rectangle in Histogram.md",
+    "006 - Main Notes/Leetcode/Stack/Evaluate Reverse Polish Notation.md",
+    "006 - Main Notes/Leetcode/Stack/Daily Temperatures.md",
+    "006 - Main Notes/Leetcode/Sliding Window/Best Time to Buy and Sell Stock.md",
+    "007 - Daily Notes/2024-09-18.md",
+    "007 - Daily Notes/2024-09-09.md",
+    "006 - Main Notes/Leetcode/Sliding Window",
+    "007 - Daily Notes/2024-09-06.md",
+    "006 - Main Notes/Leetcode/Two-Pointers/Two Sum.md",
+    "006 - Main Notes/Leetcode/Two-Pointers/Trapping Rain Water.md",
+    "006 - Main Notes/Leetcode/Two-Pointers/Container with Most Water.md",
+    "006 - Main Notes/Leetcode/Binary Search",
+    "007 - Daily Notes/2024-09-03.md",
+    "007 - Daily Notes/2024-08-30.md",
+    "007 - Daily Notes/2024-08-28.md",
+    "007 - Daily Notes/2024-08-29.md",
+    "007 - Daily Notes/2024-08-27.md",
+    "007 - Daily Notes/2024-08-26.md",
+    "004 - Indexes",
+    "007 - Daily Notes",
+    "006 - Main Notes/Leetcode/Two-Pointers",
+    "006 - Main Notes/Leetcode/Stack"
+  ]
+}
