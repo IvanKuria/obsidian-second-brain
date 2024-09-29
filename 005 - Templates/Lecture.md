@@ -1,6 +1,6 @@
 Class: [[]]
 Subject: #
 Date: {{date}}
-Teacher:
+Teacher: **Prof. Musacchio**
 
 # {{Topic}}
