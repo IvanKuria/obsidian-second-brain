@@ -3,7 +3,7 @@
 
 Status: #child 
 
-Tags: #stack #leetcode-medium 
+Tags: [[Leetcode]] #stack #leetcode-medium 
 
 # Min Stack
 

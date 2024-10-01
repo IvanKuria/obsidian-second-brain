@@ -1,9 +1,9 @@
 
 2024-09-09  22:25
 
-Status:
+Status: 
 
-Tags: #leetcode #leetcode-easy #two-pointers [[Two Sum]]
+Tags: [[Leetcode]] #leetcode #leetcode-easy #two-pointers [[Two Sum]] 
 
 # [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 

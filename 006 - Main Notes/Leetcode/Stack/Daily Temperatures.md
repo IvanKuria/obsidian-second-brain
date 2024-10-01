@@ -3,7 +3,7 @@
 
 Status: #child
 
-Tags: #stack #leetcode #leetcode-medium [[Daily Temperatures]] [[Min Stack]] [[Valid Parentheses]]
+Tags:  [[Leetcode]] #stack #leetcode #leetcode-medium [[Daily Temperatures]] [[Min Stack]] [[Valid Parentheses]]
 
 # [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 

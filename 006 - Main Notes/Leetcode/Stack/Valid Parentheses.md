@@ -3,7 +3,7 @@
 
 Status: #child
 
-Tags: #stack #leetcode #leetcode-easy 
+Tags: [[Leetcode]] #stack #leetcode #leetcode-easy 
 
 # [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 

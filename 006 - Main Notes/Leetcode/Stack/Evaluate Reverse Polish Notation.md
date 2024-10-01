@@ -3,7 +3,7 @@
 
 Status: #child 
 
-Tags: #leetcode #leetcode-medium #stack [[Min Stack]] [[Valid Parentheses]]
+Tags: [[Leetcode]] #leetcode #leetcode-medium #stack [[Min Stack]] [[Valid Parentheses]]
 
 # [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 

@@ -3,7 +3,7 @@
 
 Status: #child
 
-Tags: #leetcode #two-pointers #leetcode-medium [[Two Sum]]
+Tags: [[Leetcode]] #leetcode #two-pointers #leetcode-medium [[Two Sum]]
 
 # Two Sum II
 

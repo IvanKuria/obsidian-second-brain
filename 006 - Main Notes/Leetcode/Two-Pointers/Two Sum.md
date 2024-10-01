@@ -3,7 +3,7 @@
 
 Status: #baby
 
-Tags: #two-pointers #leetcode #leetcode-easy
+Tags: [[Leetcode]] #two-pointers #leetcode #leetcode-easy
 
 
 

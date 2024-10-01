@@ -3,7 +3,7 @@
 
 Status: #baby 
 
-Tags: #leetcode #two-pointers #leetcode-medium [[Two Sum]]
+Tags:  [[Leetcode]] #leetcode #two-pointers #leetcode-medium [[Two Sum]]
 
 # Container with Most Water
 

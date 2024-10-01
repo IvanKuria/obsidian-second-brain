@@ -3,7 +3,7 @@
 
 Status: #child 
 
-Tags: #leetcode #leetcode-hard #stack 
+Tags: [[Leetcode]] #leetcode #leetcode-hard #stack 
 
 # [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 

@@ -1,9 +1,9 @@
 
 2024-09-03  21:23
 
-Status:
+Status: #child
 
-Tags:
+Tags: [[Leetcode]] #binary-search #leetcode #leetcode-easy #two-pointers 
 
 # [Binary Search](https://leetcode.com/problems/binary-search/)
 

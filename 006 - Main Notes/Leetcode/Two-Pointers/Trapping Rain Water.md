@@ -3,7 +3,7 @@
 
 Status: #child  
 
-Tags: #leetcode #leetcode-hard #two-pointers 
+Tags: [[Leetcode]] #leetcode #leetcode-hard #two-pointers 
 
 # [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 

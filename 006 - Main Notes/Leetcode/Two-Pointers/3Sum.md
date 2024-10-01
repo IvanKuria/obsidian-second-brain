@@ -3,7 +3,7 @@
 
 Status: #baby 
 
-Tags: [[Two Sum II - Input Array Is Sorted]] #two-pointers #leetcode 
+Tags: [[Leetcode]] [[Two Sum II - Input Array Is Sorted]] #two-pointers #leetcode 
 
 # 3Sum
 
