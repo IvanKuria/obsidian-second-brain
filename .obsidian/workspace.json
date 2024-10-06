@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006 - Main Notes/Classes/CSE 16/1.6 Complement.md",
+                "file": "006 - Main Notes/Leetcode/Linked Lists/Reverse Linked List.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006 - Main Notes/Classes/CSE 16/1.6 Complement.md",
+                "file": "006 - Main Notes/Leetcode/Linked Lists/Reverse Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006 - Main Notes/Classes/CSE 16/1.6 Complement.md",
+                "file": "006 - Main Notes/Leetcode/Linked Lists/Reverse Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "006 - Main Notes/Classes/CSE 16/1.6 Complement.md"
+                "file": "006 - Main Notes/Leetcode/Linked Lists/Reverse Linked List.md"
               }
             }
           },
@@ -166,21 +166,24 @@
   },
   "active": "e2dcec424473e1fa",
   "lastOpenFiles": [
-    "006 - Main Notes/Classes/CSE 16/1.5 Union, Intersection, Difference.md",
-    "006 - Main Notes/Definitions/CSE 16.md",
-    "006 - Main Notes/Classes/CSE 16/1.8 Indexed Sets.md",
+    "006 - Main Notes/Leetcode/Linked Lists/Linked List Intro.md",
+    "006 - Main Notes/Leetcode/Linked Lists/Reverse Linked List.md",
+    "006 - Main Notes/Classes/CSE 16/1.1 Introduction to Sets.md",
+    "007 - Daily Notes/Journals/2024-10-05.md",
+    "006 - Main Notes/Classes/CSE 16/1.3 Subsets.md",
+    "006 - Main Notes/Classes/CSE 16/1.2 The Cartesian Product.md",
     "006 - Main Notes/Classes/CSE 16/1.6 Complement.md",
+    "006 - Main Notes/Classes/CSE 16/1.4 Power Sets.md",
+    "006 - Main Notes/Classes/CSE 16/1.5 Union, Intersection, Difference.md",
+    "006 - Main Notes/Classes/CSE 16/1.8 Indexed Sets.md",
+    "007 - Daily Notes/Journals/2024-10-04.md",
+    "006 - Main Notes/Definitions/CSE 16.md",
     "006 - Main Notes/Definitions/complement.md",
     "006 - Main Notes/Definitions/universal set.md",
-    "006 - Main Notes/Classes/CSE 16/1.1 Introduction to Sets.md",
-    "006 - Main Notes/Classes/CSE 16/1.2 The Cartesian Product.md",
-    "006 - Main Notes/Classes/CSE 16/1.3 Subsets.md",
-    "006 - Main Notes/Classes/CSE 16/1.4 Power Sets.md",
     "007 - Daily Notes/Journals/2024-10-02.md",
     "006 - Main Notes/Classes/CSE 16/Textbook.md",
     "006 - Main Notes/Definitions/RosterNotation.md",
     "006 - Main Notes/Definitions/Q.md",
-    "006 - Main Notes/Leetcode/Linked Lists/Linked List Intro.md",
     "007 - Daily Notes/Journals/2024-10-01.md",
     "006 - Main Notes/Definitions/Leetcode.md",
     "006 - Main Notes/Leetcode/Linked Lists",
@@ -190,9 +193,6 @@
     "003 - Tags/set.md",
     "006 - Main Notes/Definitions/Journal.md",
     "007 - Daily Notes/Journals/2024-09-30.md",
-    "007 - Daily Notes/Journals/2024-09-29.md",
-    "007 - Daily Notes/Journals/2024-09-28.md",
-    "007 - Daily Notes/Journals/2024-09-27.md",
     "007 - Daily Notes/Journals",
     "006 - Main Notes/Textbooks/CSE_16_Textbook.pdf",
     "006 - Main Notes/Textbooks/The ANSI C Programming Language by Brian W. Kernighan, Dennis M. Ritchie.pdf",

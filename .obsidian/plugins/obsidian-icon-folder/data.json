@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiList",
-      "🔢",
-      "🪨",
-      "📚",
-      "LiTags"
+      "LiCode2",
+      "🔣",
+      "LiCode",
+      "📖",
+      "LiList"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,9 @@
   "003 - Tags": "LiTags",
   "002 - Source Material": "📚",
   "001 - Rough Notes": "🪨",
-  "004 - Indexes": "🔢"
+  "004 - Indexes": "🔢",
+  "006 - Main Notes/Definitions": "📖",
+  "006 - Main Notes/Classes/CSE 16": "🔣",
+  "006 - Main Notes/Classes/CSE 13s": "LiCode",
+  "006 - Main Notes/Leetcode": "LiCode2"
 }
