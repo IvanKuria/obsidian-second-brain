@@ -10,3 +10,7 @@
 [[1.6 Complement]]
 [[1.8 Indexed Sets]]
 [[1.9 Sets That Are Number Systems]]
+[[2.1 Statements]]
+[[2.2 And, Or, Not]]
+[[2.3 Conditional Statements]]
+[[2.4 Biconditional Statements]]
