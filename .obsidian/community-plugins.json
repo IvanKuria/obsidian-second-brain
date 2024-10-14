@@ -1,8 +1,8 @@
 [
   "code-styler",
   "obsidian-icon-folder",
-  "calendar",
   "obsidian-tasks-plugin",
   "journals",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-full-calendar"
 ]

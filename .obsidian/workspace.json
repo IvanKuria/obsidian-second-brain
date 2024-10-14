@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006 - Main Notes/Classes/CSE 16/Chapter 2 Logic/2.7 Quantifiers.md",
+                "file": "006 - Main Notes/Leetcode/Arrays and Hashing/Product of Array Except Self.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "e0a8b71869b7a174",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "univers",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,14 +71,6 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "dd8c34f9b126322a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006 - Main Notes/Classes/CSE 16/Chapter 2 Logic/2.7 Quantifiers.md",
+                "file": "006 - Main Notes/Leetcode/Arrays and Hashing/Product of Array Except Self.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006 - Main Notes/Classes/CSE 16/Chapter 2 Logic/2.7 Quantifiers.md",
+                "file": "006 - Main Notes/Leetcode/Arrays and Hashing/Product of Array Except Self.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "006 - Main Notes/Classes/CSE 16/Chapter 2 Logic/2.7 Quantifiers.md"
+                "file": "006 - Main Notes/Leetcode/Arrays and Hashing/Product of Array Except Self.md"
               }
             }
           },
@@ -161,46 +162,47 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b0b48ea44425cb9a",
+  "active": "e0a8b71869b7a174",
   "lastOpenFiles": [
+    "006 - Main Notes/Definitions/CSE 16.md",
+    "006 - Main Notes/Definitions/universal quantification.md",
+    "006 - Main Notes/Definitions/conditional statement.md",
+    "006 - Main Notes/Leetcode/Arrays and Hashing/Product of Array Except Self.md",
+    "006 - Main Notes/Leetcode/Arrays and Hashing/Top K Frequent Elements.md",
+    "006 - Main Notes/Leetcode/Arrays and Hashing/Group Anagrams.md",
+    "006 - Main Notes/Leetcode/Linked Lists/Linked List Intro.md",
+    "007 - Daily Notes/Journals/2024-10-13.md",
+    "006 - Main Notes/Classes/CSE 16/Chapter 2 Logic/2.2 And, Or, Not.md",
+    "001 - Rough Notes/4 Year Plan.md",
+    "006 - Main Notes/Leetcode/Binary Search/Koko Eating Bananas.md",
+    "006 - Main Notes/Leetcode/Binary Search/Binary Search.md",
+    "006 - Main Notes/Leetcode/Arrays and Hashing/Contains Duplicate.md",
+    "006 - Main Notes/Leetcode/Arrays and Hashing/Two Sum.md",
+    "006 - Main Notes/Leetcode/Arrays and Hashing/Two Sum.md",
+    "006 - Main Notes/Leetcode/Arrays and Hashing/Valid Anagram.md",
+    "006 - Main Notes/Classes/CSE 13s/Week 2/Day 3.md",
+    "006 - Main Notes/Leetcode/Arrays and Hashing",
+    "007 - Daily Notes/Journals/2024-10-11.md",
+    "005 - Templates/Lecture.md",
+    "006 - Main Notes/Classes/CSE 13s/Week 0",
+    "006 - Main Notes/Classes/CSE 13s/Week 0/Day 0.md",
+    "006 - Main Notes/Classes/CSE 13s/Week 2",
+    "006 - Main Notes/Classes/CSE 16/Chapter 2 Logic/2.7 Quantifiers.md",
+    "007 - Daily Notes/Journals/2024-10-10.md",
+    "006 - Main Notes/Leetcode/Linked Lists/Remove Nth Node From End of List.md",
     "006 - Main Notes/Classes/CSE 16/Chapter 2 Logic/2.6 Logical Equivalence.md",
     "006 - Main Notes/Classes/CSE 16/Chapter 2 Logic/2.4 Biconditional Statements.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 2 Logic/2.7 Quantifiers.md",
     "007 - Daily Notes/Journals/2024-10-09 (1).md",
-    "006 - Main Notes/Definitions/biconditional statement.md",
-    "006 - Main Notes/Definitions/conditional statement.md",
-    "006 - Main Notes/Classes/CSE 16/Textbook.md",
-    "006 - Main Notes/Definitions/universal quantification.md",
-    "006 - Main Notes/Definitions/existential quantification.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 2 Logic/2.3 Conditional Statements.md",
-    "001 - Rough Notes/4 Year Plan.md",
-    "006 - Main Notes/Definitions/there exists.md",
-    "006 - Main Notes/Definitions/for all.md",
-    "006 - Main Notes/Definitions/cardinality.md",
-    "006 - Main Notes/Definitions/CSE 16.md",
-    "007 - Daily Notes/Journals/2024-10-09.md",
-    "006 - Main Notes/Leetcode/Binary Search/Koko Eating Bananas.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 2 Logic/2.2 And, Or, Not.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 2 Logic/2.1 Statements.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 1 Sets/1.9 Sets That Are Number Systems.md",
-    "006 - Main Notes/Definitions/open sentence.md",
-    "006 - Main Notes/Classes/CSE 16/1.5 Union, Intersection, Difference.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 1 Sets/1.4 Power Sets.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 1 Sets/1.1 Introduction to Sets.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 1 Sets/1.6 Complement.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 1 Sets/1.2 The Cartesian Product.md",
     "006 - Main Notes/Classes/CSE 16/Chapter 1 Sets",
     "006 - Main Notes/Classes/CSE 16/Chapter 2 Logic",
     "006 - Main Notes/Leetcode/Linked Lists",
     "007 - Daily Notes/Journals",
     "006 - Main Notes/Textbooks/CSE_16_Textbook.pdf",
     "006 - Main Notes/Textbooks/The ANSI C Programming Language by Brian W. Kernighan, Dennis M. Ritchie.pdf",
-    "006 - Main Notes/Textbooks",
-    "006 - Main Notes/Definitions",
-    "CSE_16_Textbook.pdf",
-    "The ANSI C Programming Language by Brian W. Kernighan, Dennis M. Ritchie.pdf"
+    "006 - Main Notes/Textbooks"
   ]
 }

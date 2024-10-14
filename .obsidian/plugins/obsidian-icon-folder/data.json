@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🏛",
       "LiCode2",
       "🔣",
       "LiCode",
-      "📖",
-      "LiList"
+      "📖"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,6 @@
   "006 - Main Notes/Definitions": "📖",
   "006 - Main Notes/Classes/CSE 16": "🔣",
   "006 - Main Notes/Classes/CSE 13s": "LiCode",
-  "006 - Main Notes/Leetcode": "LiCode2"
+  "006 - Main Notes/Leetcode": "LiCode2",
+  "006 - Main Notes/Classes": "🏛"
 }

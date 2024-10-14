@@ -1,1 +1,1 @@
-- A statement of form P ⇒ Q is called a [[conditional statement]] because it means Q will be true under the condition that P is true.
+- A statement of form P ⇒ Q is called a conditional statement because it means Q will be true under the condition that P is true.

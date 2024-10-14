@@ -14,3 +14,5 @@
 [[2.2 And, Or, Not]]
 [[2.3 Conditional Statements]]
 [[2.4 Biconditional Statements]]
+[[2.6 Logical Equivalence]]
+[[2.7 Quantifiers]]
