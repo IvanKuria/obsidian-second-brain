@@ -24,3 +24,7 @@
 
 ### Chapter 3
 [[3.1 Lists]]
+[[3.2 The Multiplication Principle]]
+[[3.3 The Addition and Subtraction Principles]]
+[[3.4 Factorials and Permutations]]
+[[3.5 Counting Subsets]]
