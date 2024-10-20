@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Leetcode]]
+Tags: 
 
 # Title
 
