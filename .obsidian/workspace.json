@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e0c4906cde766d4c",
+        "id": "1a4bad6d63e50ad9",
         "type": "tabs",
         "children": [
           {
-            "id": "8b8518183028e2c5",
+            "id": "58dbe6bd99fbf077",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "006 - Main Notes/Coding/React/002 Conditional Rendering.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "002 Conditional Rendering"
+              "title": "New tab"
             }
           }
         ]
@@ -77,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c4065dbe393a4422",
@@ -171,8 +168,24 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d11454903d0bf1d5",
+  "active": "58dbe6bd99fbf077",
   "lastOpenFiles": [
+    "007 - Daily Notes/Journals/2024-11-01.md",
+    "006 - Main Notes/Classes/CSE 16/Chapter 3 Counting/3.6 Pascal’s Triangle and the Binomial Theorem.md",
+    "006 - Main Notes/Classes/CSE 16/Textbook.md",
+    "001 - Rough Notes/4 Year Plan.md",
+    "theorem.md",
+    "006 - Main Notes/Classes/CSE 16/Chapter 4 Direct Proof/4.1 Theorems.md",
+    "006 - Main Notes/Classes/CSE 16/Chapter 4 Direct Proof",
+    "006 - Main Notes/Classes/CSE 13s/Week 4/Day 3.md",
+    "006 - Main Notes/Classes/CSE 13s/Week 4",
+    "007 - Daily Notes/Journals/2024-10-25.md",
+    "007 - Daily Notes/Journals/2024-10-28.md",
+    "001 - Rough Notes/Untitled.md",
+    "006 - Main Notes/Classes/CSE 13s/Week 3/Day 1.md",
+    "007 - Daily Notes/Journals/2024-10-24.md",
+    "007 - Daily Notes/Journals/2024-10-21.md",
+    "002 - Source Material/Pasted image 20241014132011.png",
     "006 - Main Notes/Coding/React/002 Conditional Rendering.md",
     "002 - Source Material/Pasted image 20241019153628.png",
     "002 - Source Material/Pasted image 20241019153555.png",
@@ -185,34 +198,19 @@
     "002 - Source Material/Pasted image 20241016124222.png",
     "006 - Main Notes/Classes/CSE 16/Chapter 2 Logic/2.10 Negating Statements.md",
     "007 - Daily Notes/Journals/2024-10-19.md",
-    "006 - Main Notes/Classes/CSE 13s/Week 3/Day 1.md",
     "007 - Daily Notes/Journals/2024-10-18.md",
     "002 - Source Material/Textbooks/CSE_16_Textbook.pdf",
     "006 - Main Notes/Classes/CSE 16/Chapter 3 Counting/3.5 Counting Subsets.md",
     "006 - Main Notes/Classes/CSE 16/Chapter 3 Counting/3.4 Factorials and Permutations.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 3 Counting/3.6 Pascal’s Triangle and the Binomial Theorem.md",
     "002 - Source Material/Definitions/CSE 16.md",
     "002 - Source Material/Definitions/k-permutation.md",
     "002 - Source Material/Definitions/permutation.md",
     "006 - Main Notes/Classes/CSE 16/Chapter 3 Counting/3.3 The Addition and Subtraction Principles.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 3 Counting/3.2 The Multiplication Principle.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 3 Counting/3.1 Lists.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 2 Logic/2.11 Logical Inference.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 2 Logic/Untitled.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 2 Logic/2.7 Quantifiers.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 2 Logic/2.6 Logical Equivalence.md",
-    "001 - Rough Notes/Untitled.md",
-    "007 - Daily Notes/Journals/2024-10-16.md",
-    "002 - Source Material/Pasted image 20241014132011.png",
-    "006 - Main Notes/Leetcode/Trees/Binary Trees.md",
-    "006 - Main Notes/Leetcode/Binary Search/Binary Search.md",
     "006 - Main Notes/Leetcode/Trees",
     "002 - Source Material/Screenshot 2024-10-14 123721.png",
     "006 - Main Notes/Classes/CSE 16/Chapter 3 Counting",
     "006 - Main Notes/Leetcode/Arrays and Hashing",
     "006 - Main Notes/Classes/CSE 13s/Week 0",
-    "006 - Main Notes/Classes/CSE 13s/Week 2",
-    "006 - Main Notes/Classes/CSE 16/Chapter 1 Sets",
-    "006 - Main Notes/Classes/CSE 16/Chapter 2 Logic"
+    "006 - Main Notes/Classes/CSE 13s/Week 2"
   ]
 }
