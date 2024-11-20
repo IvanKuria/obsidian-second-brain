@@ -2,7 +2,7 @@
 
 2024-10-05  20:20
 
-Status: 
+Status: #child 
 
 Tags: [[Leetcode]]
 
