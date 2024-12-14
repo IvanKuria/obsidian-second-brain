@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5d1f0f2430d7bfb0",
+        "id": "758fb80c68487db9",
         "type": "tabs",
         "children": [
           {
-            "id": "ad537720e73538fc",
+            "id": "9fd58f2a37d8eee6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "006 - Main Notes/Classes/CSE 16/Chapter 8 Proofs Involving Sets/8.2 How to Prove A ⊆ B.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "8.2 How to Prove A ⊆ B"
-            }
-          },
-          {
-            "id": "843b8674877df74a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "006 - Main Notes/Classes/CSE 16/Textbook.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Textbook"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +69,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,34 +167,36 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "843b8674877df74a",
+  "active": "9fd58f2a37d8eee6",
   "lastOpenFiles": [
-    "006 - Main Notes/Classes/CSE 16/Chapter 8 Proofs Involving Sets/8.2 How to Prove A ⊆ B.md",
-    "007 - Daily Notes/Journals/2024-11-19.md",
+    "007 - Daily Notes/Journals/2024-12-13.md",
+    "006 - Main Notes/Leetcode/Trees/Binary Trees.md",
+    "006 - Main Notes/Classes/CSE 13s/Week 6/Day 3.md",
+    "006 - Main Notes/Classes/CSE 16/Chapter 11 Relations/11.2 Properties of Relations.md",
     "006 - Main Notes/Classes/CSE 16/Textbook.md",
+    "007 - Daily Notes/Journals/2024-12-12.md",
+    "006 - Main Notes/Classes/CSE 16/Chapter 12/12.2 Injective and Surjective Functions.md",
+    "function.md",
+    "006 - Main Notes/Classes/CSE 16/Chapter 12/12.1 Functions.md",
+    "ordered pair.md",
+    "006 - Main Notes/Classes/CSE 16/Chapter 11 Relations/11.3 Equivalence Relations.md",
+    "006 - Main Notes/Classes/CSE 16/Chapter 12",
+    "equivalence relation.md",
+    "006 - Main Notes/Classes/CSE 16/Chapter 11 Relations/11.1 Relations.md",
+    "relation.md",
+    "006 - Main Notes/Classes/CSE 16/Chapter 11 Relations",
+    "006 - Main Notes/Classes/CSE 16/Chapter 8 Proofs Involving Sets/8.2 How to Prove A ⊆ B.md",
+    "007 - Daily Notes/Journals/2024-12-10.md",
+    "006 - Main Notes/Coding/React/001 React Props.md",
+    "007 - Daily Notes/Journals/2024-12-04.md",
+    "007 - Daily Notes/Journals/2024-12-01.md",
+    "007 - Daily Notes/Journals/2024-11-19.md",
     "006 - Main Notes/Classes/CSE 16/Chapter 8 Proofs Involving Sets/8.3 How to Prove A = B.md",
     "006 - Main Notes/Classes/CSE 16/Chapter 8 Proofs Involving Sets/8.1 How to Prove a ∈ A.md",
     "006 - Main Notes/Classes/CSE 16/Chapter 6 Proof by Contradiction/6.1 Proving Statements with Contradiction.md",
     "006 - Main Notes/Classes/CSE 16/Chapter 9 Disproof/9.2 Disproving Existence Statements.md",
     "006 - Main Notes/Classes/CSE 16/Chapter 5 Contrapositive Proof/5.2 Congruence of Integers.md",
     "006 - Main Notes/Classes/CSE 16/Chapter 7 Proving Non-Conditional Statements/7.1  If-and-Only-If Proof.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 7 Proving Non-Conditional Statements/7.3 Existence Proofs; Existence and Uniqueness Proofs.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 7 Proving Non-Conditional Statements/7.2 Equivalent Statements.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 2 Logic/2.1 Statements.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 1 Sets/1.6 Complement.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 5 Contrapositive Proof/5.1 Contrapositive Proof.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 6 Proof by Contradiction/6.3 Combining Techniques.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 6 Proof by Contradiction/6.2 Proving Conditional Statements by Contradiction.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 4 Direct Proof/4.5 Treating Similar Cases.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 4 Direct Proof/4.4 Using Cases.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 4 Direct Proof/4.3 Direct Proof.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 9 Disproof/9.1 Counter Examples.md",
-    "006 - Main Notes/Leetcode/Linked Lists/Reverse Linked List.md",
-    "006 - Main Notes/Leetcode/Linked Lists/Linked List Intro.md",
-    "006 - Main Notes/Leetcode/Trees/Binary Trees.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 3 Counting/3.1 Lists.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 3 Counting/3.6 Pascal’s Triangle and the Binomial Theorem.md",
-    "006 - Main Notes/Classes/CSE 16/Chapter 3 Counting/3.5 Counting Subsets.md",
     "006 - Main Notes/Classes/CSE 16/Chapter 10 Induction",
     "006 - Main Notes/Classes/CSE 16/Chapter 9 Disproof",
     "006 - Main Notes/Classes/CSE 16/Chapter 8 Proofs Involving Sets",
@@ -223,12 +205,10 @@
     "006 - Main Notes/Classes/CSE 16/Chapter 6 Proof by Contradiction",
     "006 - Main Notes/Classes/CSE 16/Chapter 5 Contrapositive Proof",
     "006 - Main Notes/Classes/CSE 16/Chapter 4 Direct Proof",
-    "006 - Main Notes/Classes/CSE 13s/Week 4",
     "002 - Source Material/Pasted image 20241014132011.png",
     "002 - Source Material/Pasted image 20241019153628.png",
     "002 - Source Material/Pasted image 20241019153555.png",
     "002 - Source Material/Pasted image 20241019142625.png",
-    "006 - Main Notes/Coding/React",
     "002 - Source Material/Pasted image 20241016124222.png",
     "002 - Source Material/Screenshot 2024-10-14 123721.png"
   ]
