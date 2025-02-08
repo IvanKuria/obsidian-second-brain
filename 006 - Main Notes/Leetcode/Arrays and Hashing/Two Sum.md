@@ -3,7 +3,7 @@
 
 Status: #baby
 
-Tags: [[Leetcode]] #two-pointers #leetcode #leetcode-easy
+Tags: [[Leetcode]] #two-pointers #leetcode #leetcode-easy 
 
 
 # Two Sum
@@ -30,7 +30,6 @@ class Solution(object):
 
 ### Explanation
  - Iterate through the array using enumerate to store the indexes for later
- - 
 
 ## References
 

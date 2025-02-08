@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1739007663073,
+      "path": "007 - Utilities/Inbox.md",
+      "title": "Inbox"
+    },
+    {
+      "type": "file",
+      "ctime": 1739007637804,
+      "path": "007 - Utilities/Today.md",
+      "title": "Today"
+    },
+    {
+      "type": "file",
+      "ctime": 1739007675098,
+      "path": "007 - Utilities/Upcoming.md",
+      "title": "Upcoming"
+    },
+    {
+      "type": "file",
+      "ctime": 1739007655043,
+      "path": "007 - Utilities/Anytime.md",
+      "title": "Anytime"
+    },
+    {
+      "type": "file",
+      "ctime": 1739007669385,
+      "path": "007 - Utilities/Someday.md",
+      "title": "Someday"
+    },
+    {
+      "type": "group",
+      "ctime": 1739007945141,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1739007926237,
+          "path": "008 - Areas/School.md",
+          "title": "School"
+        },
+        {
+          "type": "file",
+          "ctime": 1739007914800,
+          "path": "008 - Areas/Personal.md",
+          "title": "Personal"
+        }
+      ],
+      "title": "Areas"
+    },
+    {
+      "type": "file",
+      "ctime": 1739008763214,
+      "path": "009 - Recurring/Recurring.md",
+      "title": "Recurring"
+    }
+  ]
+}

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ba5dbfb86afb6282",
+        "id": "a245b04db33387dc",
         "type": "tabs",
         "children": [
           {
-            "id": "3cac3291527b58d1",
+            "id": "27653e3f28d7be19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 - Rough Notes/4 Year Plan.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4 Year Plan"
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -140,16 +137,6 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "00b2fc763442a7ce",
-            "type": "leaf",
-            "state": {
-              "type": "journal-calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ],
         "currentTab": 2
@@ -167,48 +154,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "3cac3291527b58d1",
+  "active": "27653e3f28d7be19",
   "lastOpenFiles": [
-    "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 3/Other Distributions.md",
-    "002 - Source Material/Textbooks/Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein - Introduction to Algorithms-The MIT Press (2022).pdf",
-    "STAT 131.md",
-    "007 - Daily Notes/Journals/2025-02-05.md",
-    "002 - Source Material/Textbooks/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
-    "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 2/Conditional Probability, Independence of Events.md",
-    "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 3/Binomial Distribution.md",
-    "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 2/Independence Cont., Random Variables and Distributions.md",
-    "002 - Source Material/Images/Pasted image 20250129181052.png",
-    "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 1/Day 2/2.md",
-    "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 3",
-    "007 - Daily Notes/Journals/2025-01-29.md",
-    "006 - Main Notes/Leetcode/Two-Pointers/Two Sum II - Input Array Is Sorted.md",
-    "007 - Daily Notes/Journals/2025-01-24.md",
-    "006 - Main Notes/Leetcode/Two-Pointers/3Sum.md",
-    "007 - Daily Notes/Journals/2025-01-23.md",
-    "006 - Main Notes/Leetcode/Trees/Kth Smallest Element in a BST.md",
-    "007 - Daily Notes/Journals/2025-01-22.md",
-    "002 - Source Material/Textbooks/The ANSI C Programming Language by Brian W. Kernighan, Dennis M. Ritchie.pdf",
-    "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 2/Day 3",
-    "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 2/Untitled.md",
-    "002 - Source Material/Definitions/conditional probability.md",
-    "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 2/Non-Naive Probability.md",
-    "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 2/Day 2",
-    "006 - Main Notes/Leetcode/Arrays and Hashing/Contains Duplicate.md",
-    "006 - Main Notes/Leetcode/Linked Lists/Remove Nth Node From End of List.md",
-    "007 - Daily Notes/Journals/2025-01-21.md",
-    "007 - Daily Notes/Journals/2025-01-20.md",
-    "006 - Main Notes/Leetcode/Trees/Binary Trees.md",
     "006 - Main Notes/Leetcode/Amazon/Missing Number.md",
-    "006 - Main Notes/Leetcode/Trees/Maximum Depth of Binary Tree.md",
+    "2025/02/2025-02-08 Sat.md",
     "006 - Main Notes/Leetcode/Trees/Invert Binary Tree.md",
-    "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 2/Day 1",
-    "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 2",
-    "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 1/Day 2",
-    "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 1/Day 1",
+    "006 - Main Notes/Leetcode/Trees/Kth Smallest Element in a BST.md",
+    "006 - Main Notes/Classes/2024-2025/Fall/CSE 16/Chapter 10 Induction/10.1 Proof by Induction.md",
+    "002 - Source Material/Definitions/ordered pair.md",
+    "006 - Main Notes/Leetcode/Stack/Removing Stars From a String.md",
+    "007 - Utilities/Upcoming.md",
+    "002 - Source Material/Definitions/Journal.md",
+    "006 - Main Notes/Leetcode/Trees/Maximum Depth of Binary Tree.md",
+    "007 - Daily Notes/Journals/2025-02-08.md",
+    "007 - Daily Notes/Journals",
+    "007 - Daily Notes",
+    "007 - Utilities/Today.md",
+    "007 - Utilities/Inbox.md",
+    "009 - Recurring/Recurring.md",
+    "007 - Utilities/Deadlines.md",
+    "007 - Utilities/Anytime.md",
+    "007 - Utilities/Someday.md",
+    "005 - Templates/Daily Note.md",
+    "009 - Recurring",
+    "008 - Areas/School.md",
+    "008 - Areas/Personal.md",
+    "008 - Areas",
+    "007 - Utilities",
+    "2025/02",
+    "2025",
+    "006 - Main Notes/Leetcode/Linked Lists/Reverse Linked List.md",
+    "006 - Main Notes/Leetcode/Linked Lists/Linked List Intro.md",
+    "006 - Main Notes/Classes/2024-2025/Fall/CSE 16/Chapter 3 Counting/3.4 Factorials and Permutations.md",
+    "Classes.md",
+    "002 - Source Material/Definitions/function.md",
+    "006 - Main Notes/Leetcode/Two-Pointers/Two Sum II - Input Array Is Sorted.md",
+    "002 - Source Material/Textbooks/Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein - Introduction to Algorithms-The MIT Press (2022).pdf",
+    "002 - Source Material/Textbooks/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
+    "002 - Source Material/Images/Pasted image 20250129181052.png",
+    "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 3",
     "002 - Source Material/Images/Pasted image 20250106132952.png",
     "002 - Source Material/Images/Pasted image 20241019153555.png",
     "002 - Source Material/Images/Screenshot 2024-10-14 123721.png",

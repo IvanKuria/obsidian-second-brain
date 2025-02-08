@@ -3,7 +3,7 @@
 
 Status: #child
 
-Tags:  #leetcode-easy #leetcode #trees 
+Tags:  #leetcode-easy #leetcode #trees [[Leetcode]]
 
 # [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 

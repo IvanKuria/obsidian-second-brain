@@ -3,7 +3,7 @@
 
 Status: #child
 
-Tags: #leetcode #leetcode-easy #trees #binary-trees 
+Tags: #leetcode #leetcode-easy #trees #binary-trees [[Leetcode]]
 
 # [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 

@@ -3,7 +3,7 @@
 
 Status: #child 
 
-Tags: #leetcode #leetcode-medium #trees 
+Tags: #leetcode #leetcode-medium #trees [[Leetcode]]
 
 # [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 

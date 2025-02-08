@@ -3,7 +3,7 @@
 
 Status: #child #leetcode #leetcode-medium 
 
-Tags: #stack #arrays 
+Tags: #stack #arrays [[Leetcode]]
 
 # [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
 

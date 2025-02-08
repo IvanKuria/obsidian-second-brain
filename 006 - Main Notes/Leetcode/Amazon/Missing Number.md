@@ -3,7 +3,7 @@
 
 Status: #child #leetcode #leetcode-easy 
 
-Tags: #arrays #sets
+Tags: #arrays #sets [[Leetcode]]
 
 # Missing Number
 
