@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a245b04db33387dc",
+        "id": "2c6854eceeb883a2",
         "type": "tabs",
         "children": [
           {
-            "id": "27653e3f28d7be19",
+            "id": "014fab13db3492a9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -157,16 +158,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "27653e3f28d7be19",
+  "active": "014fab13db3492a9",
   "lastOpenFiles": [
-    "006 - Main Notes/Leetcode/Amazon/Missing Number.md",
+    "007 - Utilities/Upcoming.md",
     "2025/02/2025-02-08 Sat.md",
+    "006 - Main Notes/Leetcode/Amazon/Missing Number.md",
     "006 - Main Notes/Leetcode/Trees/Invert Binary Tree.md",
     "006 - Main Notes/Leetcode/Trees/Kth Smallest Element in a BST.md",
     "006 - Main Notes/Classes/2024-2025/Fall/CSE 16/Chapter 10 Induction/10.1 Proof by Induction.md",
     "002 - Source Material/Definitions/ordered pair.md",
     "006 - Main Notes/Leetcode/Stack/Removing Stars From a String.md",
-    "007 - Utilities/Upcoming.md",
     "002 - Source Material/Definitions/Journal.md",
     "006 - Main Notes/Leetcode/Trees/Maximum Depth of Binary Tree.md",
     "007 - Daily Notes/Journals/2025-02-08.md",
