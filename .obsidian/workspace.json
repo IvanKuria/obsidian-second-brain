@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2c6854eceeb883a2",
+        "id": "19e609ffbb79a1da",
         "type": "tabs",
         "children": [
           {
-            "id": "014fab13db3492a9",
+            "id": "4eabe09525fcdd0c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "007 - Utilities/Upcoming.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Upcoming"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#school",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,9 +162,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "014fab13db3492a9",
+  "active": "4eabe09525fcdd0c",
   "lastOpenFiles": [
+    "007 - Utilities/Anytime.md",
+    "007 - Utilities/Today.md",
     "007 - Utilities/Upcoming.md",
+    "2025/02/2025-02-09 Sun.md",
+    "008 - Areas/School.md",
+    "008 - Areas/Personal.md",
+    "007 - Utilities/Someday.md",
+    "007 - Utilities/Inbox.md",
+    "007 - Utilities/Deadlines.md",
     "2025/02/2025-02-08 Sat.md",
     "006 - Main Notes/Leetcode/Amazon/Missing Number.md",
     "006 - Main Notes/Leetcode/Trees/Invert Binary Tree.md",
@@ -173,16 +185,9 @@
     "007 - Daily Notes/Journals/2025-02-08.md",
     "007 - Daily Notes/Journals",
     "007 - Daily Notes",
-    "007 - Utilities/Today.md",
-    "007 - Utilities/Inbox.md",
     "009 - Recurring/Recurring.md",
-    "007 - Utilities/Deadlines.md",
-    "007 - Utilities/Anytime.md",
-    "007 - Utilities/Someday.md",
     "005 - Templates/Daily Note.md",
     "009 - Recurring",
-    "008 - Areas/School.md",
-    "008 - Areas/Personal.md",
     "008 - Areas",
     "007 - Utilities",
     "2025/02",
@@ -192,7 +197,6 @@
     "006 - Main Notes/Classes/2024-2025/Fall/CSE 16/Chapter 3 Counting/3.4 Factorials and Permutations.md",
     "Classes.md",
     "002 - Source Material/Definitions/function.md",
-    "006 - Main Notes/Leetcode/Two-Pointers/Two Sum II - Input Array Is Sorted.md",
     "002 - Source Material/Textbooks/Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein - Introduction to Algorithms-The MIT Press (2022).pdf",
     "002 - Source Material/Textbooks/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
     "002 - Source Material/Images/Pasted image 20250129181052.png",
