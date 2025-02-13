@@ -25,7 +25,7 @@ $$Var(X) = E(X^2) - (E(X))^2$$
 $$E(X) = \frac{q}{p}$$
 $$Var(X) = \frac{q}{p^2}$$
 ## Negative Binomial Distribution
-- must be independent and identically distributed(idd)
+- must be independent and identically distributed(iid)
 - Let $Y$ ~ $NBin(p)$. 
 $$E(Y) = \frac{rq}{p}$$
 $$Var(Y) = \frac{rq}{p^2}$$
