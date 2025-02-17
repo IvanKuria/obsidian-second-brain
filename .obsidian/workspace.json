@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d174fc4d9bff941e",
+        "id": "e3e63fafaa6d2343",
         "type": "tabs",
         "children": [
           {
-            "id": "92e8b04cb9d21c09",
+            "id": "7a4ba548339888bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2025/02/2025-02-16 Sun.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-02-16 Sun"
             }
           }
         ]
@@ -157,26 +161,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "92e8b04cb9d21c09",
+  "active": "d11454903d0bf1d5",
   "lastOpenFiles": [
-    "2025/02/2025-02-15 Sat.md",
-    "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 5/Continuous Random Variables.md",
-    "007 - Utilities/Inbox.md",
-    "007 - Utilities/Today.md",
+    "2025/02/2025-02-09 Sun.md",
     "2025/02/2025-02-14 Fri.md",
-    "002 - Source Material/Textbooks/Introduction to Probability (Chapman & HallCRC Texts in -- Joseph K_ Blitzstein, Jessica Hwang -- 2014 -- Chapman and HallCRC -- 9780429102103 -- 19185c6e491a7186078089097511b228 -- Anna’s Archive.pdf",
-    "002 - Source Material/Textbooks/The ANSI C Programming Language by Brian W. Kernighan, Dennis M. Ritchie.pdf",
-    "002 - Source Material/Textbooks/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
-    "007 - Utilities/Upcoming.md",
-    "2025/02/2025-02-13 Thu.md",
-    "007 - Utilities/Someday.md",
-    "2025/02/2025-02-12 Wed.md",
+    "2025/02/2025-02-16 Sun.md",
+    "005 - Templates/Lecture.md",
+    "005 - Templates/Full Note.md",
+    "005 - Templates/Daily Note.md",
+    "2025/02/2025-02-08 Sat.md",
+    "007 - Utilities/Inbox.md",
     "009 - Recurring/Recurring.md",
+    "007 - Utilities/Upcoming.md",
+    "007 - Utilities/Today.md",
+    "2025/02/2025-02-16 Sun (1).md",
+    "006 - Main Notes/Coding/TypeScript/Pizza App.md",
+    "006 - Main Notes/Coding/TypeScript",
+    "006 - Main Notes/Coding/Untitled",
     "008 - Areas/Personal.md",
+    "2025/02/2025-02-15 Sat.md",
     "008 - Areas/School.md",
+    "007 - Utilities/Someday.md",
+    "007 - Utilities/Anytime.md",
+    "002 - Source Material/Textbooks/Introduction to Probability (Chapman & HallCRC Texts in -- Joseph K_ Blitzstein, Jessica Hwang -- 2014 -- Chapman and HallCRC -- 9780429102103 -- 19185c6e491a7186078089097511b228 -- Anna’s Archive.pdf",
+    "2025/02/2025-02-13 Thu.md",
+    "2025/02/2025-02-12 Wed.md",
     "2025/02/2025-02-11 Tue.md",
+    "002 - Source Material/Textbooks/Introduction to Probability by Joseph K. Blitzstein, Jessica Hwang (z-lib.org).pdf",
     "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 5/Variance + Poisson Distribution.md",
     "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 2/Independence Cont., Random Variables and Distributions.md",
+    "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 5/Continuous Random Variables.md",
     "002 - Source Material/Images/Pasted image 20250211171011.png",
     "002 - Source Material/Images/Pasted image 20250211163203.png",
     "002 - Source Material/Images/Pasted image 20250211163243.png",
@@ -190,20 +204,10 @@
     "002 - Source Material/Definitions/React.md",
     "002 - Source Material/Definitions/CSE 13s.md",
     "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 5",
-    "002 - Source Material/Definitions/variance.md",
-    "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 4/LOTUS, Variance.md",
     "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 4",
-    "2025/02/2025-02-10 Mon.md",
-    "007 - Utilities/Anytime.md",
-    "2025/02/2025-02-09 Sun.md",
-    "007 - Utilities/Deadlines.md",
-    "2025/02/2025-02-08 Sat.md",
-    "006 - Main Notes/Leetcode/Amazon/Missing Number.md",
-    "006 - Main Notes/Leetcode/Trees/Invert Binary Tree.md",
     "007 - Daily Notes/Journals",
     "007 - Daily Notes",
     "009 - Recurring",
-    "008 - Areas",
-    "007 - Utilities"
+    "008 - Areas"
   ]
 }

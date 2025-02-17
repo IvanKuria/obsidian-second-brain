@@ -3,4 +3,4 @@ Subject: #
 Date: {{date}}
 Teacher: **Prof. 
 
-# {{Topic}}
+# Topic
