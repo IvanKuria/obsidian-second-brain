@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ceb68337085956e9",
+        "id": "e3e63fafaa6d2343",
         "type": "tabs",
         "children": [
           {
-            "id": "1516a4855286c7fb",
+            "id": "7a4ba548339888bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "007 - Utilities/Today.md",
+                "file": "006 - Main Notes/Coding/TypeScript/Pizza App.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Today"
+              "title": "Pizza App"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,30 +161,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1516a4855286c7fb",
+  "active": "7a4ba548339888bf",
   "lastOpenFiles": [
-    "001 - Rough Notes/12-Week Plan for Internship.md",
     "007 - Utilities/Today.md",
-    "007 - Utilities/Inbox.md",
     "2025/02/2025-02-17 Mon.md",
-    "2025/02/2025-02-16 Sun.md",
-    "2025/02/2025-02-09 Sun.md",
-    "2025/02/2025-02-14 Fri.md",
-    "005 - Templates/Lecture.md",
-    "005 - Templates/Full Note.md",
-    "005 - Templates/Daily Note.md",
-    "2025/02/2025-02-08 Sat.md",
-    "009 - Recurring/Recurring.md",
-    "007 - Utilities/Upcoming.md",
-    "2025/02/2025-02-16 Sun (1).md",
     "006 - Main Notes/Coding/TypeScript/Pizza App.md",
+    "001 - Rough Notes/12-Week Plan for Internship.md",
+    "2025/02/2025-02-16 Sun.md",
+    "2025/02/2025-02-16 Sun (1).md",
     "006 - Main Notes/Coding/TypeScript",
-    "006 - Main Notes/Coding/Untitled",
-    "008 - Areas/Personal.md",
     "2025/02/2025-02-15 Sat.md",
+    "009 - Recurring/Recurring.md",
+    "008 - Areas/Personal.md",
     "008 - Areas/School.md",
     "007 - Utilities/Someday.md",
     "007 - Utilities/Anytime.md",
+    "007 - Utilities/Upcoming.md",
+    "007 - Utilities/Inbox.md",
+    "2025/02/2025-02-14 Fri.md",
     "002 - Source Material/Textbooks/Introduction to Probability (Chapman & HallCRC Texts in -- Joseph K_ Blitzstein, Jessica Hwang -- 2014 -- Chapman and HallCRC -- 9780429102103 -- 19185c6e491a7186078089097511b228 -- Anna’s Archive.pdf",
     "2025/02/2025-02-13 Thu.md",
     "2025/02/2025-02-12 Wed.md",
@@ -204,11 +197,17 @@
     "Pasted image 20250211163229.png",
     "Pasted image 20250211163225.png",
     "Pasted image 20250211163203.png",
+    "002 - Source Material/Definitions/React.md",
+    "002 - Source Material/Definitions/CSE 13s.md",
     "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 5",
+    "002 - Source Material/Definitions/variance.md",
+    "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 4/LOTUS, Variance.md",
     "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 4",
+    "2025/02/2025-02-10 Mon.md",
     "007 - Daily Notes/Journals",
     "007 - Daily Notes",
     "009 - Recurring",
-    "008 - Areas"
+    "008 - Areas",
+    "007 - Utilities"
   ]
 }
