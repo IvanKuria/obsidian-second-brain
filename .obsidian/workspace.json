@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f1bde6f6bd29624",
+            "id": "ed4bb403d303de21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/02/2025-02-18 Tue.md",
+                "file": "007 - Utilities/Today.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-18 Tue"
+              "title": "Today"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -162,13 +162,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f1bde6f6bd29624",
+  "active": "ed4bb403d303de21",
   "lastOpenFiles": [
-    "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 5/Continuous Random Variables.md",
-    "2025/02/2025-02-18 Tue.md",
     "007 - Utilities/Inbox.md",
-    "007 - Utilities/Upcoming.md",
+    "2025/02/2025-02-20 Thu.md",
     "007 - Utilities/Today.md",
+    "007 - Utilities/Upcoming.md",
+    "2025/02/2025-02-19 Wed.md",
+    "001 - Rough Notes/4 Year Plan.md",
+    "2025/02/2025-02-18 Tue.md",
+    "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 5/Continuous Random Variables.md",
     "006 - Main Notes/Coding/TypeScript/Pizza App.md",
     "2025/02/2025-02-17 Mon.md",
     "001 - Rough Notes/12-Week Plan for Internship.md",
@@ -200,10 +203,7 @@
     "Pasted image 20250211163225.png",
     "Pasted image 20250211163203.png",
     "002 - Source Material/Definitions/React.md",
-    "002 - Source Material/Definitions/CSE 13s.md",
     "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 5",
-    "002 - Source Material/Definitions/variance.md",
-    "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 4/LOTUS, Variance.md",
     "006 - Main Notes/Classes/2024-2025/Winter/STAT 131/Week 4",
     "007 - Daily Notes/Journals",
     "007 - Daily Notes",
