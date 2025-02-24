@@ -1,0 +1,1 @@
+Fortunately this has been depricated!! Instead of manually pushing and committing the files here I'm making use of the git plugin in Obsidian to automatically pull, commit and push my files to github.
